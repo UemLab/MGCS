@@ -44,10 +44,6 @@ python test.py -d WN18RR_ind
 ```
 
 
-## Baselines
-We use code provided by authors for baselines in our experiments.
-RuleN is a ruled-based method. Detailed instructions can be found [here](http://web.informatik.uni-mannheim.de/RuleN/).
-GraIL is subgraph reasoning method. Detailed instructions can be found [here](https://github.com/kkteru/grail).
 
 ## Acknowledgement
 We refer to the code of some works ([GraIL], etc.) Thanks for their contributions.
