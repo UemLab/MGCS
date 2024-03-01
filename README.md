@@ -13,9 +13,12 @@ The code is based on Python 3.7. In addition, you need to add the following depe
 - [pytorch 1.5.0](https://pytorch.org/)
 - networkx 2.5
 - tqdm
+- colorama 0.4.4
+- matplotlib 3.3.4
 - numpy
 - sklearn
 - ipdb
+- transformers 4.18.0
 
 ## Code structure
 
