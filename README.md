@@ -20,9 +20,9 @@ The code is based on Python 3.7. In addition, you need to add the following depe
 - ipdb
 - transformers 4.18.0
 
-## Code structure
+## Structure
 
-In the root directory, the “Data” folder contains all the data sets used in this work.
+In the root directory, the “data” folder contains all the data sets used in this work.
 
 ### How to train
 Please change to the Code directory, and then use the following command to train the model.
