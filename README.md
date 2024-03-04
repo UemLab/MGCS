@@ -1,5 +1,5 @@
 # 《Exploring Multi-granularity Contextual Semantics for Fully Inductive Knowledge Graph Completion》
-# Authors: Jingchao Wang, Weimin Li, et al.
+## Authors: Jingchao Wang, Weimin Li, et al.
 
 
 ## Dependencies:
